@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # anime_app2
 
 A new Flutter project.
